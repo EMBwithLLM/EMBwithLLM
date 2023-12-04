@@ -1,0 +1,21 @@
+{
+    "banking77": "Select the banking customer utterance that better corresponds with the Query in terms of intent.",
+    "stackexchange": "Select the StackExchange question that better corresponds with the Query in terms of topic.",
+    "reddit": "Select the Reddit question that better corresponds with the Query in terms of topic.",
+    "arxiv_fine": "Select the Arxiv paper title that better corresponds with the Query in terms of domain.",
+    "synthesized_emotion": "Select the document that better corresponds with the Query in terms of emotion.",
+    "synthesized_style": "Select the document that better corresponds with the Query in terms of style.",
+    "synthesized_topic": "Select the document that better corresponds with the Query in terms of topic.",
+    "few_rel_nat": "Select the example that better corresponds with the Query in terms of relation type.",
+    "go_emotion": "Select the sentence that better corresponds with the Query in terms of emotion expressed.",
+    "few_nerd_nat": "Select the example that better corresponds with the Query in terms of entity type.",
+    "massive_scenario": "Select the user utterance that better corresponds with the Query in terms of scenario.",
+    "massive_intent": "Select the user utterance that better corresponds with the Query in terms of intent.",
+    "mtop_domain": "Select the user utterance that better corresponds with the Query in terms of domain",
+    "mtop_intent": "Select the user utterance that better corresponds with the Query in terms of intent",
+    "few_event": "Select the example that better corresponds with the Query in terms of event type.",
+    "clinc": "Select the customer utterance that better corresponds with the Query in terms of intent.",
+    "clinc_domain": "Select the customer utterance that better corresponds with the Query in terms of domain",
+    "goal_topic": "Select the example that better corresponds with the Query in terms of topic",
+    "goal_language": "Select the choice that uses the same language (such as English or Chinese) as Query."
+}

@@ -1,1 +1,1 @@
-# CompactClusterLLM
+# EMBwithLLM

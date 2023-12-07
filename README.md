@@ -117,7 +117,7 @@ checkpoints로 전환 후 미세조정된 모델로 임베딩을 진행합니다
 
 실험 전 성능은 `measure` , 실험 후 성능은 `after_measures` 에서 확인 가능하며 다음과 같습니다. 
 
-|데이터셋| Bank77 |  | FewNerd |  | StackEx |  | MTOP(D) |  |
+|데이터셋| Bank77   | FewNerd   | StackEx   | MTOP(D)   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 방법 | Acc | NMI | ACC | NMI | ACC | NMI | ACC | NMI |
 | E5 | 59.90 | 77.71 | 25.49 | 40.62 | 37.31 | 58.59 | 91.23 | 57.23 |
